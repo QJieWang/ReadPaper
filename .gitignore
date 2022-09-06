@@ -1,2 +1,3 @@
-./make.bat 
-./Makefile
+make.bat 
+Makefile
+.vscode
